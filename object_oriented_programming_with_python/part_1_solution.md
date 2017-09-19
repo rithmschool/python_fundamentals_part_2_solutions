@@ -24,7 +24,7 @@ Multiple inheritance is when a class inherits from many other classes, not just 
 
 ### 7. What is polymorphism?
 
-Polymorphism is what allows us to use the same interace (or method) for instances of different classes. 
+Polymorphism is what allows us to use the same interface (or method) for instances of different classes. 
 
 ### 8. What is method resolution order or MRO?
 
